@@ -1,0 +1,16 @@
+{
+    "name": "server/server",
+    "description": "this is test server",
+    "autoload": {
+        "psr-4": {
+            "Server\\Server\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asraful",
+            "email": "asraful808088@gmail.com"
+        }
+    ],
+    "require": {}
+}
